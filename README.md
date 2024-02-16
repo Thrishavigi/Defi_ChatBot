@@ -108,9 +108,12 @@ Deploy the compiled contract on the Æternity blockchain using the provided depl
 5. Deploy the built files to a web server or use a service like Net
 
    ![](https://github.com/Thrishavigi/Defi_ChatBot/blob/main/Defi_ChatBot/defi-chatbot/1.jpg?raw=true)
-   ![](/images/1.jpg)
-   ![](/images/1.jpg)
-   ![](/images/1.jpg)
+   
+   ![](https://github.com/Thrishavigi/Defi_ChatBot/blob/main/Defi_ChatBot/defi-chatbot/2.jpg?raw=true)
+   
+   ![](https://github.com/Thrishavigi/Defi_ChatBot/blob/main/Defi_ChatBot/defi-chatbot/3.jpg?raw=true)
+   
+   ![](https://github.com/Thrishavigi/Defi_ChatBot/blob/main/Defi_ChatBot/defi-chatbot/4.jpg?raw=true)
 
 ## Usage
 Once the project is set up, you can access the chatbot interface through the provided URL. Use the chat interface to interact with the chatbot, receive personalized recommendations, and access DeFi services seamlessly.
