@@ -107,7 +107,7 @@ Deploy the compiled contract on the Æternity blockchain using the provided depl
 
 5. Deploy the built files to a web server or use a service like Net
 
-   ![]()
+   ![](https://github.com/Thrishavigi/Defi_ChatBot/blob/main/Defi_ChatBot/defi-chatbot/1.jpg?raw=true)
    ![](/images/1.jpg)
    ![](/images/1.jpg)
    ![](/images/1.jpg)
