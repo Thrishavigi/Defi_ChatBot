@@ -1,6 +1,8 @@
 # AI-Driven Chatbot for Decentralized Finance (DeFi) Services
 ## Project Description
 The AI-driven chatbot project aims to streamline user access to decentralized finance (DeFi) services by leveraging cutting-edge technologies. Through seamless integration with the aeternity ecosystem, Sophia Smart Contracts, and the Superhero Wallet, the chatbot offers personalized recommendations, analysis of on-chain data, and intuitive conversational interfaces. This README provides a comprehensive overview of the project, including its objectives, technological stack, setup instructions, and contribution guidelines.
+
+![](https://github.com/Thrishavigi/Defi_ChatBot/blob/main/chatbot_front%20.jpg?raw=true)
 ## Table of Contents
 1. Project Description
 2. Tech Stack
