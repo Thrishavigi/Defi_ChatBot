@@ -7,8 +7,9 @@ The AI-driven chatbot project aims to streamline user access to decentralized fi
 1. Project Description
 2. Tech Stack
 3. Installation
-4. Usage
 5. Deployment
+6. Video Demo
+7. Usage
    
 ## Tech Stack
 **Frontend**: HTML5, CSS3, React.js or Angular
@@ -116,6 +117,12 @@ Deploy the compiled contract on the Æternity blockchain using the provided depl
    ![](https://github.com/Thrishavigi/Defi_ChatBot/blob/main/Defi_ChatBot/defi-chatbot/3.jpg?raw=true)
    
    ![](https://github.com/Thrishavigi/Defi_ChatBot/blob/main/Defi_ChatBot/defi-chatbot/4.jpg?raw=true)
+
+## Video Demo
+
+
+https://github.com/Thrishavigi/Defi_ChatBot/assets/132319574/ed191efc-41a2-44cc-9120-3ae219aeb2bf
+
 
 ## Usage
 Once the project is set up, you can access the chatbot interface through the provided URL. Use the chat interface to interact with the chatbot, receive personalized recommendations, and access DeFi services seamlessly.
