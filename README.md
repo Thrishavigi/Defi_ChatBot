@@ -125,3 +125,8 @@ https://github.com/Thrishavigi/Defi_ChatBot/assets/132319574/856e3b4e-2a40-4bfc-
 
 ## Usage
 Once the project is set up, you can access the chatbot interface through the provided URL. Use the chat interface to interact with the chatbot, receive personalized recommendations, and access DeFi services seamlessly.
+
+## Team Members
+1.Thrisha Vijayakumar (thrishavijayakumar.aiml2022@citchennai.net)
+2.Keerthana.K.V (keerthanakv.aiml2022@citchennai.net)
+3.Madhulekha.R (madhulekhar.aiml2022@citchennai.net)
