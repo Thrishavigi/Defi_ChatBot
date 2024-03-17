@@ -10,6 +10,7 @@ The AI-driven chatbot project aims to streamline user access to decentralized fi
 5. Deployment
 6. Video Demo
 7. Usage
+8. Team Members
    
 ## Tech Stack
 **Frontend**: HTML5, CSS3, React.js or Angular
@@ -130,3 +131,4 @@ Once the project is set up, you can access the chatbot interface through the pro
 1.Thrisha Vijayakumar (thrishavijayakumar.aiml2022@citchennai.net)
 2.Keerthana.K.V (keerthanakv.aiml2022@citchennai.net)
 3.Madhulekha.R (madhulekhar.aiml2022@citchennai.net)
+4.Ramya.S (ramyas.aiml2022@citchennai.net)
