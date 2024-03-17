@@ -120,8 +120,7 @@ Deploy the compiled contract on the Æternity blockchain using the provided depl
 
 ## Video Demo
 
-
-https://github.com/Thrishavigi/Defi_ChatBot/assets/132319574/ed191efc-41a2-44cc-9120-3ae219aeb2bf
+https://github.com/Thrishavigi/Defi_ChatBot/assets/132319574/856e3b4e-2a40-4bfc-a374-9ea962621e3d
 
 
 ## Usage
